@@ -1,0 +1,1 @@
+print('Xin chào, đây là một đoạn mã Python đơn giản!')
